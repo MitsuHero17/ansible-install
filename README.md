@@ -8,9 +8,9 @@
 
 ## インストール手順
 
-GitHub 上のファイル群をローカルに git clone する
+GitHub 上のファイル群をローカルに git clone する （またはダウンロードして zip 展開する）
 
-	# git clone 
+	# git clone git@github.com:MitsuHero17/ansible-install.git
 
 シェルを実行する
 
